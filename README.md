@@ -1,5 +1,3 @@
-# Mercari-Price-Recommendation
-
 This problem statement is based on the Fynd ML Challenge 2019. Link to the Challenge - https://blog.gofynd.com/machine-learning-internship-challenge-2019-6b4e9dddb637
 
 Accuracy obtained - 93.2% (Refer .PPT file)
